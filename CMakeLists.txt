@@ -10,3 +10,4 @@ add_executable(
         architecture/Entity.h
 )
 add_executable(strategy design-patterns/fundamental-patterns/behavioral/strategy/main.cpp)
+add_executable(WinApi cpp-core/WinAPI/01/main.cpp)
