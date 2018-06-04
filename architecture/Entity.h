@@ -1,6 +1,6 @@
 // В этом файле распологается интерфейс класса
 
-//#pragma once    // для Visual Studio
+#pragma once
 
 #ifndef DEV_LIBRARY_CPP_ENTITY_H
 #define DEV_LIBRARY_CPP_ENTITY_H
