@@ -9,7 +9,7 @@
 
 class Entity {
 private:
-    std::string str = "Hello World";
+    std::string str;
 public:
     Entity(const std::string &str);
 
