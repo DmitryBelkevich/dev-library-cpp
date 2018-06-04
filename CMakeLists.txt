@@ -11,5 +11,4 @@ add_executable(
 )
 add_executable(strategy design-patterns/fundamental-patterns/behavioral/strategy/main.cpp)
 add_executable(WinApi_01 cpp-core/WinAPI/01/main.cpp)
-#add_executable(WinApi_02 cpp-core/WinAPI/02/main.cpp)
-add_executable(WinApi_03 cpp-core/WinAPI/03/main.cpp)
+add_executable(WinApi_02 cpp-core/WinAPI/02/main.cpp)
