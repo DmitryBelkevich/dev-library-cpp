@@ -8,6 +8,4 @@ add_executable(dev-library-cpp main.cpp)
 add_subdirectory(architecture)
 add_subdirectory(design-patterns)
 add_subdirectory(frameworks)
-
-add_subdirectory(cpp-core/WinAPI/01)
-add_subdirectory(cpp-core/WinAPI/02)
+add_subdirectory(cpp-core)
