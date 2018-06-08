@@ -1,0 +1,1 @@
+add_executable(WinApi_01 main.cpp)
